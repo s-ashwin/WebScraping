@@ -1,0 +1,1 @@
+A simple application which scrapes movie title, rating, watch hours from IMDb
