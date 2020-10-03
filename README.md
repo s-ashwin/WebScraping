@@ -1,1 +1,1 @@
-A simple application which scrapes movie title, rating, watch hours from IMDb
+A simple application which scrapes movie title, rating, watch hours from IMDb and stores it in a .csv file
